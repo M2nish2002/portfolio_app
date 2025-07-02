@@ -4,6 +4,11 @@ A Streamlit app for optimal portfolio allocation using modern portfolio theory a
 It dynamically fetches stock price data from Yahoo Finance using the `yfinance` Python library and optimizes portfolio weights for a user-selected target return.
 
 ---
+## Live Demo
+
+Try the app live here: [https://m2nish2002-portfolio-app-app-erf0nt.streamlit.app/](https://m2nish2002-portfolio-app-app-erf0nt.streamlit.app/)
+
+---
 
 ## Features
 
@@ -20,7 +25,7 @@ It dynamically fetches stock price data from Yahoo Finance using the `yfinance` 
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/portfolio-optimizer.git
